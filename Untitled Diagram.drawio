@@ -1,62 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mxfile host="app.diagrams.net">
-  <diagram name="Page-1" id="5C1FXn2Iny_gR0CmKTVE">
-    <mxGraphModel dx="1024" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="1434" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
-        <mxCell id="0" parent="1" />
-        <mxCell id="1" value="Emotion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFDDDD;" vertex="1" parent="0">
-          <mxGeometry x="300" y="100" width="120" height="60" />
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-12" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;" parent="1" target="C-vyLk0tnHw3VtMMgP7b-17" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="700" y="165" as="sourcePoint" />
+            <mxPoint x="460" y="205" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="2" value="Memory" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFDDDD;" vertex="1" parent="0">
-          <mxGeometry x="300" y="200" width="120" height="60" />
+        <mxCell id="EMIR_B9XKgD5JRGw5aek-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EMIR_B9XKgD5JRGw5aek-2" target="EMIR_B9XKgD5JRGw5aek-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Personality Island" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFDDDD;" vertex="1" parent="0">
-          <mxGeometry x="100" y="200" width="120" height="60" />
+        <mxCell id="EMIR_B9XKgD5JRGw5aek-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EMIR_B9XKgD5JRGw5aek-2" target="EMIR_B9XKgD5JRGw5aek-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Event" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFDDDD;" vertex="1" parent="0">
-          <mxGeometry x="500" y="200" width="120" height="60" />
+        <mxCell id="EMIR_B9XKgD5JRGw5aek-2" value="Emotion" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Control Center" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFDDDD;" vertex="1" parent="0">
-          <mxGeometry x="300" y="300" width="120" height="60" />
+        <mxCell id="EMIR_B9XKgD5JRGw5aek-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EMIR_B9XKgD5JRGw5aek-3" target="EMIR_B9XKgD5JRGw5aek-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="Sense of Self" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFDDDD;" vertex="1" parent="0">
-          <mxGeometry x="300" y="400" width="120" height="60" />
+        <mxCell id="EMIR_B9XKgD5JRGw5aek-3" value="Memory" style="whiteSpace=wrap;html=1;align=center;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="80" y="230" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="Thoughts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFDDDD;" vertex="1" parent="0">
-          <mxGeometry x="100" y="400" width="120" height="60" />
+        <mxCell id="EMIR_B9XKgD5JRGw5aek-9" value="Core Memories" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="730" y="20" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="Dreams" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFDDDD;" vertex="1" parent="0">
-          <mxGeometry x="500" y="400" width="120" height="60" />
+        <mxCell id="EMIR_B9XKgD5JRGw5aek-12" value="Event" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="730" y="250" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="0" source="2" target="1">
-          <mxGeometry relative="1" />
+        <mxCell id="EMIR_B9XKgD5JRGw5aek-14" value="Control Center" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="730" y="330" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="0" source="3" target="2">
-          <mxGeometry relative="1" />
+        <mxCell id="EMIR_B9XKgD5JRGw5aek-17" value="Sense of Self" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="740" y="90" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="0" source="6" target="2">
-          <mxGeometry relative="1" />
+        <mxCell id="EMIR_B9XKgD5JRGw5aek-18" value="Thoughts" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="730" y="410" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="0" source="1" target="4">
-          <mxGeometry relative="1" />
+        <mxCell id="EMIR_B9XKgD5JRGw5aek-19" value="Dreams" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="730" y="170" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="0" source="5" target="7">
-          <mxGeometry relative="1" />
+        <mxCell id="EMIR_B9XKgD5JRGw5aek-24" value="Name" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="170" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="0" source="4" target="8">
-          <mxGeometry relative="1" />
+        <mxCell id="EMIR_B9XKgD5JRGw5aek-29" value="Emotio_ID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="15" value="Memory-Emotion" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitPerimeter=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="0" source="2" target="1">
-          <mxGeometry relative="1" />
-        </mxCell>
-        <mxCell id="16" value="PersonalityIsland-Memory" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitPerimeter=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="0" source="3" target="2">
-          <mxGeometry relative="1" />
-        </mxCell>
-        <mxCell id="17" value="SenseOfSelf-Memory" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitPerimeter=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="0" source="6" target="2">
-          <mxGeometry relative="1" />
-        </mxCell>
-        <mxCell id="18" value="Thought-Emotion-Event" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitPerimeter=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="0" source="7" target="2">
-          <mxGeometry relative="1" />
+        <mxCell id="EMIR_B9XKgD5JRGw5aek-31" value="Memory_ID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry y="140" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
